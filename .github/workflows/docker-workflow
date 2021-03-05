@@ -7,7 +7,7 @@ on:
 
 jobs:
 
-  build:
+  action:
 
     runs-on: ubuntu-latest
 
