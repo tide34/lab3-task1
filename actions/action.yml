@@ -1,7 +1,0 @@
-  
-name: "Build image"
-description: "Build image when new changes commit to master branch"
-
-runs:
-        using: "docker"
-        image: "Dockerfile"
